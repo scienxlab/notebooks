@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: add-notebook-metadata
+        name: Add YAML metadata to notebooks
+        entry: uv run python .pre-commit/add_metadata.py
+        language: system
+        types: [jupyter]
+
