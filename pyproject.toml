@@ -12,3 +12,10 @@ dependencies = [
     "pandera>=0.24.0",
     "scipy>=1.15.3",
 ]
+
+[dependency-groups]
+dev = [
+    "nbformat>=5.10.4",
+    "pre-commit>=4.2.0",
+    "pyyaml>=6.0.2",
+]
