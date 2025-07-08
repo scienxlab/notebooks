@@ -9,6 +9,7 @@ dependencies = [
     "bruges>=0.5.4",
     "cartopy>=0.24.1",
     "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.3",
     "obspy>=1.4.2",
@@ -16,7 +17,10 @@ dependencies = [
     "pandera>=0.24.0",
     "pint>=0.24.4",
     "pint-pandas>=0.7.1",
+    "plotly-express>=0.4.1",
+    "python-ternary>=1.0.8",
     "scipy>=1.15.3",
+    "seaborn>=0.13.2",
     "uncertainties>=3.2.3",
 ]
 
