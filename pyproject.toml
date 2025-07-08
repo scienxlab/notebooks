@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "basemap>=2.0.0",
+    "bruges>=0.5.4",
     "cartopy>=0.24.1",
     "ipykernel>=6.29.5",
     "jupyter>=1.1.1",
@@ -13,7 +14,10 @@ dependencies = [
     "obspy>=1.4.2",
     "pandas>=2.3.0",
     "pandera>=0.24.0",
+    "pint>=0.24.4",
+    "pint-pandas>=0.7.1",
     "scipy>=1.15.3",
+    "uncertainties>=3.2.3",
 ]
 
 [dependency-groups]
