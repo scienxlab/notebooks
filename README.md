@@ -2,7 +2,7 @@
 
 A collection of Jupyter Notebooks on various scientific topics, especially interesting for subsurface scientists.
 
-## Source
+## Sources
 
 Nearly all of these notebooks will likely need updating. Some are totally obselete and will not be worth rescuing.
 
@@ -11,4 +11,5 @@ Nearly all of these notebooks will likely need updating. Some are totally obsele
 * Some of my gists are pretty short: [https://gist.github.com/kwinkunks](https://gist.github.com/kwinkunks), eg [this one](https://gist.github.com/kwinkunks/33dc88629cabf8311a1a506fbee85719) is quite good, also [this one](https://gist.github.com/kwinkunks/ddf3c6f781eadeac51f19d5cd1ebe617)
 * I have a bunch of mathy notebooks here: [https://github.com/kwinkunks/chrestomathy/tree/main/notebooks](https://github.com/kwinkunks/chrestomathy/tree/main/notebooks)
 * My entire collection of notebooks for teaching is here: [https://github.com/agilescientific/geocomputing](https://github.com/agilescientific/geocomputing)
+* I have several notebooks about machine learning pitfalls here: [https://github.com/equinor/ml-pitfalls/tree/main/notebooks](https://github.com/equinor/ml-pitfalls/tree/main/notebooks)
 * Aaaand I have this undifferentiated pile of notebooks [https://github.com/kwinkunks/notebooks](https://github.com/kwinkunks/notebooks)
