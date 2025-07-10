@@ -20,4 +20,4 @@ Nearly all of these notebooks will likely need updating. Some are totally obsele
 - If you don't have Python on your computer, install `uv` by following [the instructions on this page](https://docs.astral.sh/uv/getting-started/installation/). This program will let you manage Python projects on your computer.
 - Open a command prompt (Windows) or terminal (Mac, Linux) and change directory to the `notebooks` folder you unzipped earlier.
 - Type `uv sync` to create a virtual environment on your machine.
-
+- Try the tutorial notebook first, [A quick Python tutorial](notebooks/A_quick_Python_tutorial.ipynb).
