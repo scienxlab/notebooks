@@ -16,9 +16,9 @@ Nearly all of these notebooks will likely need updating. Some are totally obsele
 
 I helped coordinate some collaborations:
 
-* Nearly all the 30-ish SEG tutorials have a notebook / code: [https://wiki.seg.org/wiki/Geophysical_tutorials](https://wiki.seg.org/wiki/Geophysical_tutorials)
-* Lots of people contributed to the 2018 Repro Zoo in Anaheim: [https://github.com/seg/repro-zoo-2018](https://github.com/seg/repro-zoo-2018)
-* ...and we continued a bit more on this project here: [https://github.com/softwareunderground/repro-zoo](https://github.com/softwareunderground/repro-zoo)
+* Nearly all the 30-ish SEG tutorials have a notebook / code: [Geophysical tutorials](https://wiki.seg.org/wiki/Geophysical_tutorials)
+* Lots of people contributed to the 2018 Repro Zoo in Anaheim: [`repro-zoo-2018`](https://github.com/seg/repro-zoo-2018)
+* ...and we continued a bit more on this project here: [`repro-zoo`](https://github.com/softwareunderground/repro-zoo)
 
 ## Getting started
 
