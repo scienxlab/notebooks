@@ -21,6 +21,9 @@ dependencies = [
     "python-ternary>=1.0.8",
     "scipy>=1.15.3",
     "seaborn>=0.13.2",
+    "torch>=2.13.0",
+    "tqdm>=4.70.0",
+    "transformers>=5.16.1",
     "uncertainties>=3.2.3",
 ]
 
